@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "IPFilterParseCore": {
+      "commandName": "Project",
+      "commandLineArgs": "D:\\Test\\ydxerpxkpcfqjaybcssw.txt 192.168.210.1 -1"
+    }
+  }
+}

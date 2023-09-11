@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\Development\IPFilterParseCore\IPFilterParseAPI\bin\Release\net6.0\publish\</_PublishTargetUrl>
+    <History>True|2022-12-12T02:36:23.6554095Z;True|2022-12-12T00:22:21.1196351+00:00;True|2022-12-11T23:11:50.1828684+00:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
